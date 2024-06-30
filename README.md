@@ -8,7 +8,7 @@
 ls /usr/bin
 ```
 
-![Tux Penguin](https://drive.google.com/uc?export=view&id=1UYNlKR7vR-AZNHo5c-TRAMd7alg412Gp)
+<img src="https://drive.google.com/uc?export=view&id=1UYNlKR7vR-AZNHo5c-TRAMd7alg412Gp" alt="Tux Penguin" width="600"/>
 
 ### Count Number of Commands
 ```bash
