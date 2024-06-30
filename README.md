@@ -8,6 +8,8 @@
 ls /usr/bin
 ```
 
+<img src="https://drive.google.com/file/d/1UYNlKR7vR-AZNHo5c-TRAMd7alg412Gp/view?usp=sharing" alt="Tux penguin">
+
 ### Count Number of Commands
 ```bash
 ls /usr/bin | wc -l
@@ -301,5 +303,4 @@ htop
 Create ASCII art text
 ```bash
 figlet
-```
 ```
