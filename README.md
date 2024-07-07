@@ -148,6 +148,11 @@ du
   ```bash
   du -h
   ```
+  
+### Default Login Shell
+```bash
+grep username /etc/passwd
+```
 
 ## Package Management
 
