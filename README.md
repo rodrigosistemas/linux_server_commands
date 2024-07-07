@@ -243,6 +243,11 @@ Activate administrator mode
 sudo su
 ```
 
+## Change user password
+```bash
+passwd
+```
+
 ### exit
 Exit administrator mode
 ```bash
