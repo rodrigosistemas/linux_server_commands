@@ -254,6 +254,26 @@ Exit administrator mode
 exit
 ```
 
+### Create a backup
+```bash
+sudo apt install timeshift
+```
+```bash
+sudo timeshift --create --comments ""
+```
+```bash
+sudo timeshift --restore
+```
+```bash
+timeshift --list
+```
+```bash
+sudo timeshift --restore --snapshot ID
+```
+```bash
+sudo timeshift --delete --snapshot ID
+```
+
 ## File Compression and Decompression
 
 ### Compress files
