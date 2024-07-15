@@ -243,7 +243,7 @@ Activate administrator mode
 sudo su
 ```
 
-## Change user password
+### Change user password
 ```bash
 passwd
 ```
@@ -272,6 +272,14 @@ sudo timeshift --restore --snapshot ID
 ```
 ```bash
 sudo timeshift --delete --snapshot ID
+```
+
+### Reboot
+```bash
+reboot
+```
+```bash
+init 6
 ```
 
 ## File Compression and Decompression
