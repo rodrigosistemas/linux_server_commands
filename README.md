@@ -170,6 +170,9 @@ sudo apt-cache search <package>
 ```bash
 dpkg-query -l
 ```
+```bash
+dpkg -l
+```
 
 ### Show information about a package
 ```bash
