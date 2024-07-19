@@ -251,6 +251,31 @@ sudo su
 passwd
 ```
 
+### Changing permissions (numbers)
+```bash
+chmod 777 file
+```
+```bash
+chmod 755 file
+```
+```bash
+chmod 644 file
+```
+```bash
+chmod 000 file
+```
+
+### Changing permissions (letters)
+```bash
+chmod u+x file
+```
+```bash
+chmod g-w file
+```
+```bash
+chmod o+r file
+```
+
 ### exit
 Exit administrator mode
 ```bash
