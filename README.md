@@ -378,6 +378,9 @@ sensors
 ### htop
 Show system processes in an interactive interface
 ```bash
+top
+```
+```bash
 htop
 ```
 
