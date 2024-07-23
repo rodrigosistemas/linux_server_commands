@@ -119,6 +119,22 @@ View the entire list of aliases
 alias
 ```
 
+### locate
+Is used to quickly find files on the system, and it also uses a database
+```bash
+locate file
+```
+Update batabase
+```bash
+sudo updatedb
+```
+
+### find
+Real-time search by traversing the file system
+```bash
+find /file/route -name file
+```
+
 ## System Information
 
 ### hostname
