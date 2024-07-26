@@ -76,6 +76,10 @@ Remove a file
 ```bash
 rm
 ```
+Force delete
+```bash
+rm -rf
+```
 
 ### touch
 Create a file
