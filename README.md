@@ -1,4 +1,3 @@
-```markdown
 # Linux Commands
 
 ## File and Directory Management
