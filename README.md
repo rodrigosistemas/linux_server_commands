@@ -7,7 +7,7 @@
 ls /usr/bin
 ```
 
-<img src="https://drive.google.com/uc?export=view&id=1UYNlKR7vR-AZNHo5c-TRAMd7alg412Gp" alt="Tux Penguin" width="250"/>
+<img src="https://github.com/rodrigosistemas/linux_server_commands/blob/main/img/linux.jpeg" alt="Tux Penguin" width="250"/>
 
 ### Count Number of Commands
 ```bash
